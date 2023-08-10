@@ -1,0 +1,15 @@
+{C:/Users/wj/Desktop/FPGA project/key_led/rtl/key_led.v} {1 {vlog -work work -vopt -stats=none {C:/Users/wj/Desktop/FPGA project/key_led/rtl/key_led.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module key_led
+
+Top level modules:
+	key_led
+
+} {} {}} {C:/Users/wj/Desktop/FPGA project/key_led/sim/td_key_led.v} {1 {vlog -work work -vopt -stats=none {C:/Users/wj/Desktop/FPGA project/key_led/sim/td_key_led.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module td_key_led
+
+Top level modules:
+	td_key_led
+
+} {} {}}

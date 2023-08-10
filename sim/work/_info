@@ -1,0 +1,68 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/wj/Desktop/FPGA project/flow_led/sim
+vkey
+!s110 1686403850
+!i10b 1
+!s100 JUnaZ>WSgaXig;6[199j`0
+IS[VF1kgW7jLB^T3@ZECD91
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/wj/Desktop/FPGA project/key_led/sim
+w1686403262
+Z2 8C:/Users/wj/Desktop/FPGA project/key_led/rtl/key_led.v
+Z3 FC:/Users/wj/Desktop/FPGA project/key_led/rtl/key_led.v
+L0 1
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1686403850.660000
+Z5 !s107 C:/Users/wj/Desktop/FPGA project/key_led/rtl/key_led.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/wj/Desktop/FPGA project/key_led/rtl/key_led.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vkey_led
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 7UGn:2hHKn9YZ0BUPKkc:2
+INLHE8KleLG`AXl3@eOdg?1
+R1
+w1686405314
+R2
+R3
+L0 1
+R4
+!s108 1686405687.725000
+R5
+R6
+!i113 0
+R7
+vtd_key_led
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^5ia=ZU0[DJ=Sa=dDGRc83
+I_>;=3R=d>gOK:h[_Y0V8c3
+R1
+w1686405680
+8C:/Users/wj/Desktop/FPGA project/key_led/sim/td_key_led.v
+FC:/Users/wj/Desktop/FPGA project/key_led/sim/td_key_led.v
+L0 2
+R4
+!s108 1686405687.669000
+!s107 C:/Users/wj/Desktop/FPGA project/key_led/sim/td_key_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/wj/Desktop/FPGA project/key_led/sim/td_key_led.v|
+!i113 0
+R7
